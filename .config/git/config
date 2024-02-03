@@ -1,0 +1,5 @@
+[user]
+	name = Evan Wild
+	email = evan@evanwild.com
+[init]
+	defaultBranch = main
