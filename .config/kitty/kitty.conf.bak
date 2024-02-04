@@ -1,9 +1,0 @@
-font_size 15.0
-
-shell /opt/homebrew/bin/fish
-
-
-# BEGIN_KITTY_THEME
-# Dark Plus
-include current-theme.conf
-# END_KITTY_THEME
